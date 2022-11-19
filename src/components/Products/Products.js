@@ -1,11 +1,11 @@
 import React from 'react';
 import { useLoaderData } from 'react-router-dom';
+import Cart from '../Cart/Cart';
 import Product from '../Product/Product';
 import './Products.css'
 
 const Products = () => {
     const products = useLoaderData()
-    console.log(products)
     return (
         <div className='simple-products'>
             <div className='products-container'>
@@ -14,7 +14,7 @@ const Products = () => {
                 }
             </div>
             <div className='cart-container'>
-                <h1>Cart</h1>
+                <Cart></Cart>
             </div>
         </div>
     );
