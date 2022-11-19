@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "img": "https://static.gigabyte.com/StaticFile/Image/Global/b2612ca1814363084abf5a2e7197dfc1/Product/31123/webp/400",
+        "name": "B660m GIGABYTE",
+        "Pice": 14000
+    },
+    {
+        "id": 2,
+        "img": "https://static.gigabyte.com/StaticFile/Image/Global/0d5478034d7ee2580af6a96b0c6b523f/Product/30267/webp/400",
+        "name": "B780m GIGABYTE",
+        "Pice": 19000
+    },
+    {
+        "id": 3,
+        "img": "https://static.gigabyte.com/StaticFile/Image/Global/0c6899b3e79329e5c8236fda4441fe0e/Product/32578/webp/400",
+        "name": "B880mn GIGABYTE",
+        "Pice": 10000
+    },
+    {
+        "id": 4,
+        "img": "https://static.gigabyte.com/StaticFile/Image/Global/7de12b80a86045b4b6260fb83c4c0c08/Product/32119/webp/400",
+        "name": "Nvidia 750ti",
+        "Pice": 17000
+    },
+    {
+        "id": 5,
+        "img": "https://static.gigabyte.com/StaticFile/Image/Global/aec57468212f978b15cb5e57faeb5529/Product/32038/webp/400",
+        "name": "Nvidia 700",
+        "Pice": 19000
+    },
+    {
+        "id": 6,
+        "img": "https://static.gigabyte.com/StaticFile/Image/Global/dc6d65bfcf598b6ce39dbd9fc0b3ffdb/Product/26609/webp/400",
+        "name": "Geforce 1080to",
+        "Pice": 45000
+    },
+    {
+        "id": 7,
+        "img": "https://static.gigabyte.com/StaticFile/Image/Global/b2612ca1814363084abf5a2e7197dfc1/Product/31123/webp/400",
+        "name": "B660m GIGABYTE",
+        "Pice": 15000
+    },
+    {
+        "id": 8,
+        "img": "https://static.gigabyte.com/StaticFile/Image/Global/0ef4ac1faf0e519c53d704da3bc652c0/Product/26587/webp/400",
+        "name": "Geforce gtx 2500",
+        "Pice": 21000
+    },
+    {
+        "id": 9,
+        "img": "https://static.gigabyte.com/StaticFile/Image/Global/aec57468212f978b15cb5e57faeb5529/Product/32038/webp/400",
+        "name": "Geforce gtx 2000",
+        "Pice": 23000
+    }
+]
