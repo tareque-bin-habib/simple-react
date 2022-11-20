@@ -2,7 +2,7 @@ import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 import './Product.css'
 
-function Product({ product }) {
+function Product({ product, btnAddToCart }) {
     const { img, name, price, details } = product
     return (
         <div className='product'>
@@ -16,7 +16,7 @@ function Product({ product }) {
                     </Card.Text>
 
                 </Card.Body>
-                <Button className='btn-add-to-cart'>Add to Cart</Button>
+                <Button onClick={() => btnAddToCart(product)} className='btn-add-to-cart'>Add to Cart</Button>
             </Card>
         </div>
     );

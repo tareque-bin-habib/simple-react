@@ -1,0 +1,21 @@
+.cart-container {
+    position: sticky;
+    top: 10px;
+}
+
+.cart {
+    background-color: slateblue;
+    height: 200px;
+    width: 60%;
+    text-align: center;
+    padding: 10px;
+}
+
+.names {
+    background-color: slateblue;
+    margin-top: 50px;
+    width: 60%;
+    text-align: center;
+    padding: 10px;
+    color: #fff;
+}
