@@ -24,7 +24,7 @@ const Cart = ({ cart, handleRemoveItem }) => {
             <div className='names'>
                 {
                     cart.map(productName => <p>{productName.name}
-                        <button onClick={() => handleRemoveItem(productName)}>X</button>
+                        <button className='renove-btn' onClick={() => handleRemoveItem(productName)}>X</button>
                     </p>
 
                     )
